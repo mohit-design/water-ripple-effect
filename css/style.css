@@ -1,0 +1,6 @@
+/*------- Water Ripple Effect css Starts -------*/
+
+* {	margin: 0;padding: 0; }
+.banner-img { background: url("../images/banner.jpg") no-repeat fixed;background-size: cover;height: 100vh; }
+
+/*------- Water Ripple Effect Ends -------*/
